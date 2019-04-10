@@ -6,7 +6,7 @@ import javax.ws.rs.Path;
 public class Test {
 	@POST
 	public void showA() {
-		System.out.println("Happy path");
+		System.out.println("204 Status");
 	}
 
 }
